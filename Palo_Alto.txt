@@ -16,4 +16,8 @@
 		- Apply flink manifest and provide cluster credentials
 		- Created cluster with flink and demo done to shankarganesh and manoj. Shared the public IP	
 
-	
+19-April-2022	
+	- Shankarganesh asked to set up a call with Manoj, Sathish, Karthick for autoscaling
+	- Manoj need to run python jobs in apache beam
+		- He needs to know the memory consumption of pods in a node (Shared memory or seperate memory)
+	- Need to read apache beam [How to run python jobs]
