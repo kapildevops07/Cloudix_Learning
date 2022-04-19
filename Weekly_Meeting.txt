@@ -1,0 +1,12 @@
+======================== Weekly Meeting ========================
+19-April-2022:
+Last Week:
+	- Argo CD implementation for mediguru dev environment
+		- We faced ingress issue. While deploying ingress to k8s cluster, it is not redirected to argo cd api server
+		- This issue get resolved by adding "--insecure" flag to argocd server [URI: https://github.com/argoproj/argo-cd/issues/2953]
+
+Current Week:
+	- Argo CD pods are not showing in UI while deploying using argo cd manifest
+		- This issue is due to project manifest, where in only allowed resource at namespace level is visible in UI
+	- Deploy argocd for mediguru dev environment
+	- Use Dependentbot to update packages for md-payment-service branch development

@@ -1,0 +1,19 @@
+================================ Palo Alto ====================================
+05-April-2022: [1103 Palo Alto Container Hosting]
+	- Shankarganesh shared a sample container to build an image for the Dockerfile
+		- The Dockerfile is shared by client to customer
+		- Since the base image used in Dockerfile is from private registry, we used public image "openjdk:15.0-jdk-buster" and build the Dockerfile and run the contianer
+		
+	- Sent an email about queries for Shankarganesh
+		- What is the exact java version
+		- Since the provided base image is from private registry, can we use "openjdk:15.0-jdk-buster" for POC
+		- Using "openjdk:15.0-jdk-buster" image, we are able to build the image and run the container
+		- Since "gcp_credentials.json" is not available in the provided zip file, is there any dependency while accessing API
+		
+12-April-2022
+	- Ganapathi Karthick pinged me for a call. 
+		- Agenda: Create AKS cluster for POC
+		- Apply flink manifest and provide cluster credentials
+		- Created cluster with flink and demo done to shankarganesh and manoj. Shared the public IP	
+
+	

@@ -1,0 +1,11 @@
+====================== Tasks by Raj =========================
+12-04-2022:
+	- Lern networking concepty in AKS
+		- Advanced Network Concepts
+		- K8 Service Address Range
+		- K8 DNS Service Address IP
+		- Docker Bridge Address
+		
+	- Security Implementation at Vera
+		- Check with Balaji for 
+		
