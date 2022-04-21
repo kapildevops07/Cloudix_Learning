@@ -8,4 +8,12 @@
 		
 	- Security Implementation at Vera
 		- Check with Balaji for 
-		
+
+21-04-2022:
+	- Azure Managed Hardware Security Module (HSM)
+		- [https://www.cryptomathic.com/news-events/blog/hsms-and-key-management-effective-key-security]
+	- Dependabot 
+		- [https://www.freecodecamp.org/news/keep-package-dependencies-up-to-date-on-azure-devops/]
+	- WhiteSource Bolt with Azure DevOps 
+		- [https://www.azuredevopslabs.com/labs/vstsextend/whitesource/]
+		- [https://github.com/dependency-check/dependency-check-sonar-plugin]
